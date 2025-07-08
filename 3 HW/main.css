@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+.img > .img__1 {
+    margin: 14rem;
+    margin-top: 30rem; 
+    max-width: 200px;
+    transform: scale(2);
+}
+
+ 
+.float .jpeg {
+    margin-top: 20rem;
+    margin: 14rem;
+    margin-top: 10rem; 
+    max-width: 200px;
+    transform: scale(2);
+    float: left;
+}
+
+.float h4 {
+    margin-top: -5rem;
+    margin-bottom: 50px;
+    margin-left: 41rem;
+    margin-right: 55rem;
+    font-size: 28px;
+    color: rgb(143, 0, 0);
+    -webkit-text-stroke: 0.5px #000000; 
+}   
+
+.text > .Zag__a > h1 {
+
+    margin-left: 50rem;
+    font-size: 50px;
+    margin-bottom: 300px;
+    color: rgb(141, 0, 0);
+    -webkit-text-stroke: 0.5px #000000; 
+    margin-bottom: 150px;
+}
+
+.tags  {
+    -webkit-text-stroke: 0.5px #000000;
+    color:rgb(143, 0, 0);
+    margin-left: 70rem;
+    margin-top: -39rem;
+    font-size: 30px;
+}
+
+.inter {
+    color: #7e0000;
+    margin-top: 30rem;
+    margin-left: 50rem;
+    margin-right: 40rem;
+    -webkit-text-stroke: 0.5px #000000;
+}
+
+.pin_gl h1 {
+    font-size: 100px;
+}
