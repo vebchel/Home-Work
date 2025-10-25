@@ -1,0 +1,27 @@
+:root {
+    --color-pastel: #F8F3CE;
+    --color-gray: #DDDAD0;
+    --color-gray-plus: #7A7A73;
+    --color-black: #57564F;
+}
+
+
+html, body {
+    background-color: var(--color-pastel);
+}
+
+.block__glav {
+    color: var(--color-black);
+}
+
+.block__glav > div {
+    background-color: var(--color-gray);
+}
+
+.block__glav > div::before {
+    color: var();
+}
+
+.zag {
+    color: var(--color-gray-plus)
+}
