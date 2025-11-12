@@ -1,0 +1,87 @@
+@import url("text.css");
+@import url("block.css");
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
+
+.squiare {
+    width: 100px;
+    aspect-ratio: 1;
+}
+
+html {
+    font-size: 16px;
+}
+
+
+.btn {
+    margin: 50px;
+    padding: 32px;
+    color: black;
+    font-size: 32px;
+    
+}
+
+.block {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7Ruc3aDfDuCbY_FFQ-23U1on7qndeh-dNw&s");
+    background-position: center;
+    padding: 12px;
+    height: 20vh;
+    border: #1e6ec9 50px solid;
+    border-radius: 40px;
+}
+
+
+h3 {
+    font-family: "Bitcount Grid Double", system-ui;
+    font-size: 32px;
+}
+
+
+.galery{
+    width: 100vw;
+    margin: 0%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.block_conteiner {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    background-color: lavender;
+}
+
+.block__conteiner_img {
+
+    margin: 100px;
+    justify-content: left;
+    background-color: #1e6ec9;
+}
+
+
+
+
+
+
+
+/*
+background-size: ;
+bacrground-repeat: no-repeat;
+
+.block {
+
+    width: 100vw;
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block__con
+*/
+
+
+
+
+
+

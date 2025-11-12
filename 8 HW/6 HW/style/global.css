@@ -1,0 +1,17 @@
+@import url("./color.css");
+@import url("./space.css");
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+html,
+body {
+  
+  margin: 0;
+  padding: 0;
+  /* height: 800px; */
+  width: 100%;
+  overflow: hidden;
+ 
+}
+    
+
+
